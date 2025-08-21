@@ -11,7 +11,7 @@ Exercícios sobre Estrutura Sequencial (entrada, processamento, saída)
 		 Fórmula da área: area = π . raio2
 		 Considere o valor de π = 3.14159
   
-  3)Fazer um programa para ler quatro valores inteiros A, B, C e D.
+  3) Fazer um programa para ler quatro valores inteiros A, B, C e D.
      A seguir, calcule e mostre a diferença do produto de A e B pelo  
      roduto de C e D segundo a fórmula: 
      DIFERENCA = (A * B - C * D).
